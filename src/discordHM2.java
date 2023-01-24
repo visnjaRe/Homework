@@ -1,0 +1,2 @@
+public class discordHM2 {
+}
